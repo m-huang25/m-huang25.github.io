@@ -1,5 +1,7 @@
 # My background
-I am a natural resource manager interested in integrating envrionmental data science to improve people's health.
+I am a natural resource manager interested in integrating envrionmental data science to improve people's health. 
+
+![flower](https://mgnv.org/wp-content/uploads/2026/07/flower_companion_ND.jpg)
 
 - LinkedIn
 
