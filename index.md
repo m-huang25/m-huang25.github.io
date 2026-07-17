@@ -3,7 +3,7 @@ I am a natural resource manager interested in integrating envrionmental data sci
 
 ![flower](https://mgnv.org/wp-content/uploads/2026/07/flower_companion_ND.jpg)
 
-![lilly_flower](/img/flower.jpg)
+![lilly_flower](/img/Flowers.jpg)
 
 - LinkedIn
 
