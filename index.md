@@ -1,5 +1,5 @@
 # My background
-I am a natural resource manager currently interested in integrating environmental data science to improve the environment and people's health. 
+I am a natural resource manager interested in integrating environmental data science to improve the environment and people's health. 
 
 ![Mountains](/img/Mountains.png)
 
