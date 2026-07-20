@@ -7,3 +7,5 @@ For the past 20 years, I have managed various projects related to: watershed man
 
 Here is my [LinkedIn](www.linkedin.com/in/marjorie-huang-nrm) [Note: currently being updated].
 
+### Some favorite maps
+<embed type="text/html" src="/img/cu_map.html" height="650" width="850">
