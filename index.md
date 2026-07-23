@@ -9,3 +9,7 @@ Here is my [LinkedIn](www.linkedin.com/in/marjorie-huang-nrm) [Note: currently b
 
 ### My map
 <embed type="text/html" src="/img/cu_map_2.html" height="650" width="850">
+
+### My time series plot
+
+<embed type="text/html" src="/img/boulder_plot.html" width="600" height="600">
